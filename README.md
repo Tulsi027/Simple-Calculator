@@ -66,9 +66,9 @@ Build a Simple Calculator to strengthen understanding of:
 
 ## 📸 Project Preview
 
-![Calculator Preview](preview.png)
+![Calculator Preview](Preview.png)
 
-> *(Replace `images/screenshot.png` with your actual image path)*
+ 
 
 ---
 
